@@ -1,0 +1,131 @@
+body{
+    color: #F2F2F2;
+    font-style: italic;
+    font-family: Cursive;
+    background-color: mintcream;
+}
+.jana{
+    width: 80%;
+    height: 550px;
+    background-color: #B7D3DF;
+    border-radius: 20px;
+    border: 2px dashed #C9BBCF;
+    margin: auto;
+    margin-top: 5%;
+}
+.jana1{
+    width:90%;
+    height: 360px;
+    background-color: #C9BBCF;
+    padding-top: 30px;
+    margin-left: 50px;
+    margin-top: -20px;
+    display: inline-block;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+.jana2{
+    width: 50%;
+    float: right;
+    text-align: center;
+    margin-right: 120px;
+    padding-top: 30px;
+}
+li{
+    list-style: square;
+}
+.jana3{
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    position: relative;
+    top: -15px;
+}
+.meni{
+    margin-top: 17px;
+    width: 100%;
+    height: 80px;
+}
+.meni a{
+    float: right;
+    color: #A10035;
+    width: 12.5%;
+    text-decoration: none;
+    font-size: 15px;
+    text-align: center;
+    height: 52%;
+}
+.meni a:hover {
+    background-color: #FDEBF7;
+    color: #A10035;
+    border-radius: 10px;
+}
+.meni a:active {
+    background-color: #FDEBF7;
+    color: #A10035;
+}
+.jana4{
+    display: inline-block;
+    width: 49%;
+    float: right;
+    position: relative;
+    top: -15px;
+    text-align: center;
+}
+.jana5{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+    width: 33%;
+}
+.jana6{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    width: 40%;
+    padding-top: 55px;
+}
+.jana7{
+    display: inline-block;
+    width: 40%;
+    float: left;
+    text-align: center;
+    position: relative;
+}
+.jana8{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    top: -30px;
+}
+.jana9{
+    display: inline-block;
+    width: 47%;
+    float: right;
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 70px;
+}
+hr{
+    border-top: 3px solid #898AA6;
+}
+.jana10{
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    padding-top: 25px;
+}
+.jana12{
+    display: inline-block;
+    width: 90%;
+    text-align: center;
+    position: relative;
+    top: -30px;
+    right: -52px;
+}
+label input{
+    width: 200px;
+    color: #7a378b;
+}
